@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Cucumber" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="AutomationWithCucumber" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="br.edu.nonatorw.BalanceApplication" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
